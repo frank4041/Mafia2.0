@@ -1,7 +1,3 @@
---- src/components/Screens.tsx (原始)
-
-
-+++ src/components/Screens.tsx (修改后)
 import { GameState } from '../types/game';
 
 interface LobbyScreenProps {

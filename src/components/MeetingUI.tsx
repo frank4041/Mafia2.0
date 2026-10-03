@@ -1,7 +1,3 @@
---- src/components/MeetingUI.tsx (原始)
-
-
-+++ src/components/MeetingUI.tsx (修改后)
 import { useState, useEffect, useRef } from 'react';
 import { GameState, ChatMessage, VoteTarget } from '../types/game';
 

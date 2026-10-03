@@ -1,7 +1,3 @@
---- src/components/Map.tsx (原始)
-
-
-+++ src/components/Map.tsx (修改后)
 import { ROOMS } from '../game/gameLogic';
 import { Room } from '../types/game';
 

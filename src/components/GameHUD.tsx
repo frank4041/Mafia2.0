@@ -1,7 +1,3 @@
---- src/components/GameHUD.tsx (原始)
-
-
-+++ src/components/GameHUD.tsx (修改后)
 import { GameState } from '../types/game';
 import { getRoomAtPosition } from '../game/gameLogic';
 

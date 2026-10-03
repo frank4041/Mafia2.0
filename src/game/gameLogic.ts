@@ -1,7 +1,3 @@
---- src/game/gameLogic.ts (原始)
-
-
-+++ src/game/gameLogic.ts (修改后)
 import { GameState, Player, Role, Task, DeadBody, ChatMessage, Vote, Position, Room } from '../types/game';
 
 // Nigerian names for bots

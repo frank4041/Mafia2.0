@@ -1,7 +1,3 @@
---- src/components/GameScene.tsx (原始)
-
-
-+++ src/components/GameScene.tsx (修改后)
 import { useRef, useEffect } from 'react';
 import { Canvas, useFrame, useThree } from '@react-three/fiber';
 import * as THREE from 'three';

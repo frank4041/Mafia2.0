@@ -1,12 +1,3 @@
---- src/App.tsx (原始)
-export default function App() {
-  return (
-    <div/>
-  );
-}
-
-
-+++ src/App.tsx (修改后)
 import { useState, useCallback, useEffect, useRef } from 'react';
 import { GameScene } from './components/GameScene';
 import { GameHUD } from './components/GameHUD';

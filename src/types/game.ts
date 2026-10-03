@@ -1,7 +1,3 @@
---- src/types/game.ts (原始)
-
-
-+++ src/types/game.ts (修改后)
 export type Role = 'civilian' | 'thief';
 export type GamePhase = 'lobby' | 'playing' | 'meeting' | 'gameover';
 export type VoteTarget = string | 'skip';

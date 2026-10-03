@@ -1,7 +1,3 @@
---- src/components/Player.tsx (原始)
-
-
-+++ src/components/Player.tsx (修改后)
 import { useRef } from 'react';
 import { useFrame } from '@react-three/fiber';
 import { Player as PlayerType } from '../types/game';
